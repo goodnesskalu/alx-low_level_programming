@@ -1,10 +1,11 @@
-/* Author: Goodness Kalu
- * Date: 09/08/2022
- * Task: Implement puts function */
-
 #include <stdio.h>
-int (void) 
+
+/**
+ * main - prints the phrase "Programming is like building a multilingual puzzle
+ *  Return: 0 if exited properly, non-zero otherwise
+ */
+int main(void)
 {
-	puts ("Programming is like building a multilingual puzzle");
-	return 0;
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
