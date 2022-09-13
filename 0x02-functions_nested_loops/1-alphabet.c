@@ -2,6 +2,7 @@
 
 /**
  * main - check code
+ * lowercases
  */
 void print_alphabet(void)
 {
