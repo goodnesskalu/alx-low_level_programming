@@ -2,6 +2,8 @@ include "main.h"
 /**
  * _strlen_recursion - prints length of string
  * @s: string to be calculated
+ *
+ * Return: length of the string
  */
 int _strlen_recursion(char *s)
 {
